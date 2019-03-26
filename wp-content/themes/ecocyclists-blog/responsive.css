@@ -1,0 +1,15 @@
+/*
+This file has been created by Gab to make modifications regarding responsive
+*/
+
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+	#wrap{ width: 100%; }
+	.hp-highlight, .portfolio-item, .home-entry, #footer-one,#footer-two,#footer-three,#footer-four{ width: 30.1%;  }
+	#home-tagline{ font-size: 21px; }
+	#search { text-indent: -9999px; }
+	.loop-entry-thumbnail{width: 35%;}
+
+
+
+
+}

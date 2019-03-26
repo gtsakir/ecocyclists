@@ -1,0 +1,837 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"backgroune",
+				"background-image"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"doctype",
+				"doctype	HTML - HTML foundation"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"rep",
+				"repeat-x"
+			],
+			[
+				"so",
+				"social_media"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"subhe",
+				"sub_header1"
+			],
+			[
+				"logo",
+				"logo_text"
+			],
+			[
+				"footer",
+				"footer1"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"sub",
+				"sub_header3"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"data_",
+				"data_container_photos"
+			],
+			[
+				"button",
+				"button1_2lines"
+			],
+			[
+				"color",
+				"colorbox"
+			],
+			[
+				"BA",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"b",
+				"border-color"
+			],
+			[
+				"header",
+				"header_container"
+			],
+			[
+				"button1_",
+				"button1_container"
+			],
+			[
+				"contain",
+				"button1_container"
+			],
+			[
+				"re",
+				"reviews_container"
+			],
+			[
+				"head",
+				"header_container"
+			],
+			[
+				"hea",
+				"header_picture"
+			],
+			[
+				"music_",
+				"music_block2"
+			],
+			[
+				"lin",
+				"link"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"backgra",
+				"background-image"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"list",
+				"list-style-type"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"filed",
+				"FileDiffs: Menu"
+			],
+			[
+				"Snippet: ",
+				"Snippet: HTML - Comment"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"tidy",
+				"TidyHTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"comb",
+				"Sort via CSScomb"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"reide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"",
+				"Set Syntax: HTML (Rails)"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gabriel/Documents/sites/ecocyclists/wp-content/themes/ecocyclists-blog/footer.php",
+		"/Users/gabriel/Documents/sites/ecocyclists/wp-content/themes/ecocyclists-blog/header.php",
+		"/Users/gabriel/Documents/sites/ecocyclists/wp-content/themes/ecocyclists-blog/templates/homepage2.php",
+		"/Users/gabriel/Documents/sites/ecocyclists/wp-content/themes/ecocyclists-blog/style.css",
+		"/Users/gabriel/Documents/sites/ecocyclists/wp-content/themes/ecocyclists-blog/homepage.php",
+		"/Users/gabriel/Documents/sites/ecocyclists/wp-includes/theme-compat/header.php",
+		"/Users/gabriel/Documents/sites/ecocyclists/wp-content/themes/wpex-adapt/templates/homepage.php",
+		"/Users/gabriel/Documents/sites/ecocyclists/index.html",
+		"/Users/gabriel/Documents/sites/ecocyclists/wp-content/themes/wpex-adapt/archive.php",
+		"/Users/gabriel/Documents/sites/ecocyclists/wp-config.php",
+		"/Users/gabriel/Documents/web site ideas/bicycle/local site credentials",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/1e9af8ca-0d4d-4b7c-800a-75bb0d7948d2/ecocyclists/wp-config.php",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/1e9af8ca-0d4d-4b7c-800a-75bb0d7948d2/ecocyclists/wp-content/themes/ecocyclists-blog/footer.php",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/1e9af8ca-0d4d-4b7c-800a-75bb0d7948d2/ecocyclists/wp-content/themes/ecocyclists-blog/style.css",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/c410595d-0550-4fe8-ae80-2a90c84daf87/dirty_fm/wordpress/wp-content/themes/LA-BAND-v1.1.3/header.php",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/c410595d-0550-4fe8-ae80-2a90c84daf87/dirty_fm/wordpress/wp-content/themes/LA-BAND-v1.1.3/custom.css.php",
+		"/Users/gabriel/Dropbox/Derti-fm/theme_stuff/LA-BAND-v1.1.3/custom.css.php",
+		"/Users/gabriel/Dropbox/Derti-fm/theme_stuff/LA-BAND-v1.1.3/header.php",
+		"/Users/gabriel/Dropbox/Derti-fm/theme_stuff/LA-BAND-v1.1.3/admin/options-framework.php",
+		"/Users/gabriel/Dropbox/Derti-fm/theme_stuff/LA-BAND-v1.1.3/admin/inc/customfunctions.php",
+		"/Users/gabriel/Dropbox/Derti-fm/theme_stuff/LA-BAND-v1.1.3/library/siteframework.php",
+		"/Users/gabriel/Dropbox/Derti-fm/theme_stuff/LA-BAND-v1.1.3/theme-options.php",
+		"/Users/gabriel/Dropbox/Derti-fm/theme_stuff/LA-BAND-v1.1.3/functions.php",
+		"/Library/WebServer/Documents/wordpress1/wp-content/themes/twentythirteen/header.php",
+		"/Library/WebServer/Documents/wordpress1/wp-content/themes/twentythirteen/index.php",
+		"/Library/WebServer/Documents/wordpress1/wp-content/themes/twentythirteen/page.php",
+		"/Library/WebServer/Documents/wordpress1/wp-content/themes/twentythirteen/archive.php",
+		"/Users/gabriel/Documents/web site ideas/wordpress1/wordpress1.sublime-project",
+		"/Library/WebServer/Documents/wordpress1/wp-includes/deprecated.php",
+		"/Library/WebServer/Documents/wordpress1/wp-includes/capabilities.php",
+		"/Library/WebServer/Documents/wordpress1/wp-admin/includes/dashboard.php",
+		"/Library/WebServer/Documents/wordpress1/wp-admin/includes/ajax-actions.php",
+		"/Library/WebServer/Documents/wordpress1/wp-admin/includes/class-wp-posts-list-table.php",
+		"/Library/WebServer/Documents/wordpress1/index.php",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/database_commands.txt",
+		"/Users/gabriel/Dropbox/Derti-fm/theme_stuff/custom.css",
+		"/Users/gabriel/Dropbox/Derti-fm/theme_stuff/post attributes to make criteria from.txt",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/c410595d-0550-4fe8-ae80-2a90c84daf87/dirty_fm/wordpress/wp-content/themes/LA-BAND-v1.1.3/template.page.fullwidth2.php",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/c410595d-0550-4fe8-ae80-2a90c84daf87/dirty_fm/wordpress/wp-content/themes/LA-BAND-v1.1.3/template.event.php",
+		"/Users/gabriel/Dropbox/Derti-fm/theme_stuff/ekkremotites.txt",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/fz3temp-1/testicomoon 2.html",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/fz3temp-1/testicomoon.html",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/fz3temp-1/custom.css.php",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/fz3temp-1/superfish.css",
+		"/Users/gabriel/Documents/web site ideas/priceq/website/icomoon/icomoon-documentation.txt",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/fz3temp-1/header.png",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/fz3temp-1/style 2.css",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/fz3temp-1/footer.php",
+		"/Users/gabriel/Desktop/responsive.css",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/fz3temp-1/responsive 2.css",
+		"/Users/gabriel/Documents/web site ideas/bicycle/wordpress/css/responsive.css",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/fz3temp-1/responsive.css",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/fz3temp-1/wp-admin.css",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/fz3temp-1/index.html",
+		"/private/var/folders/r_/9qvdtn9930n8wkc2fhs_45h40000gn/T/fz3temp-1/styles.css",
+		"/Users/gabriel/Documents/web site ideas/priceq/lorem_ipsum.txt",
+		"/Users/gabriel/Documents/web site ideas/priceq/index.html",
+		"/Users/gabriel/Documents/web site ideas/responsive-design/index.html",
+		"/Users/gabriel/Documents/web site ideas/responsive-design/styles.css",
+		"/Users/gabriel/Documents/web site ideas/responsive-design/style.css",
+		"/Users/gabriel/Documents/web site ideas/bootstrap_project/styles.css",
+		"/Users/gabriel/Documents/web site ideas/bootstrap_project/test.html",
+		"/Users/gabriel/Downloads/utorrent/Apple.Logic.Pro.X.MACOSX-REMEDY/Instructions.txt",
+		"/Users/gabriel/Documents/web site ideas/bootstrap_project/untitled.html",
+		"/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/User/doctype.sublime-snippet",
+		"/Users/gabriel/Documents/web site ideas/bootstrap_project/bootstrap_custom/css/bootstrap.css",
+		"/Users/gabriel/Documents/web site ideas/bootstrap_project/bootstrap_custom/css/bootstrap.min.css",
+		"/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/User/div.sublime-snippet",
+		"/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/User/clear_both.sublime-snippet",
+		"/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/Users/gabriel/Downloads/bootstrap-3.0.0/README.md",
+		"/Users/gabriel/Documents/web site ideas/dhi/Dear CEO",
+		"/Users/gabriel/Documents/web site ideas/dhi/Dear Mrs Cali Giannatou,",
+		"/Users/gabriel/Documents/web site ideas/bicycle/html/index.html",
+		"/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/TidyHTML5/TidyHTML.sublime-settings",
+		"/Users/gabriel/Documents/web site ideas/bicycle/test.html",
+		"/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/home_page_test_edited.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/home_page_test.html",
+		"/Users/gabriel/Downloads/jQuery.popeye/plugin.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/reviews2.txt",
+		"/Library/WebServer/Documents/dirtyfuse_temporary/photos_flyers.html",
+		"/Library/WebServer/Documents/dirtyfuse_temporary/test.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/reviews_block_markup.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/reviews.txt",
+		"/Library/WebServer/Documents/dirtyfuse_temporary/about_us.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/CMSMS Forms Email Template.txt",
+		"/Library/WebServer/Documents/dirtyfuse_temporary/template_home.html",
+		"/Library/WebServer/Documents/dirtyfuse_temporary/music_template.html",
+		"/Library/WebServer/Documents/dirtyfuse/config.php",
+		"/Library/WebServer/Documents/dirtyfuse_temporary/videos.html",
+		"/Library/WebServer/Documents/gtsakir/lib/adodb.functions.php",
+		"/Library/WebServer/Documents/dirtyfuse_temporary/http:::greencookierecords.bandcamp.com:album:surfb",
+		"/Library/WebServer/Documents/dirtyfuse_temporary/music.html",
+		"/Library/WebServer/Documents/dirtyfuse_temporary/template_styles.css",
+		"/Library/WebServer/Documents/dirtyfuse_temporary/index.html",
+		"/Users/gabriel/Documents/web site ideas/gtsakir.com/new_website/problem with cms_selflink.txt",
+		"/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/CSScomb/CSScomb.sublime-settings",
+		"/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/User/CSScomb.sublime-settings",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/about_us.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/videos.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/styles.css",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/music.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/index.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/dirtyfuse.sublime-project",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/music2.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/photos_flyers.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/albums tracks.txt",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/playlist.xml",
+		"/Users/gabriel/Downloads/dewplayer/index-swfobject-js.htm",
+		"/Users/gabriel/Downloads/dewplayer/playlist.xml",
+		"/Users/gabriel/Downloads/colorbox-master/example1/index.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/colorbox/colorbox.css",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/colorbox/jquery.colorbox-min.js",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/colorbox/jquery.colorbox.js",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/about_us2.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/lightbox/css/lightbox.css",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/test.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/test.css",
+		"/Users/gabriel/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/gabriel/Documents/web site ideas/html5/ApocalypsePage_Revised_files/ApocalypsePage_Revised.css",
+		"/Users/gabriel/Documents/web site ideas/html5/ApocalypsePage_Revised.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/music_test2.html",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/website/dewplayer_styles.css",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/dirtyfuse comments.txt",
+		"/Users/gabriel/Documents/web site ideas/dirtyfuse website/dirtyfuse comments",
+		"/Users/gabriel/Desktop/tsivika/styles.css",
+		"/Users/gabriel/Desktop/tsivika/ypiresies.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>,/Users/gabriel/Documents/sites/ecocyclists/wp-content/themes,",
+			"<open folders>,/Users/gabriel/Documents/sites/ecocyclists/wp-content/themes,,*.php",
+			"<open folders>,/Users/gabriel/Documents/sites/ecocyclists/wp-content/themes,,*.txt",
+			"<open folders>,/Users/gabriel/Documents/sites/ecocyclists/wp-content/themes",
+			"<open folders>",
+			"/Library/WebServer/Documents/wordpress1/",
+			"/Library/WebServer/Documents/wordpress1/*.php",
+			"/Library/WebServer/Documents/wordpress1",
+			"/Library/WebServer/Documents/dirtyfuse_temporary"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"portfolio-overlay",
+			"style.css",
+			"stylesheet",
+			"980pxg",
+			"980px",
+			"520px",
+			"width",
+			"<title>ecocyclists.org - Under Construction</title>",
+			"Homepage",
+			"footer",
+			"gab",
+			"of_get_option",
+			"\n\n\n\nof_get_option",
+			"admin user:admin\nadmin pass:admin@!\nof_get_option",
+			"of_get_option",
+			"is_super.*",
+			"is_super",
+			"cababili.*php",
+			"functions.*php",
+			"is_super_admin()",
+			"function",
+			"function.php",
+			"function",
+			"<!-- custom css --> ",
+			"text/javascript",
+			"---------------------",
+			"media",
+			"press",
+			"post_photo",
+			"signi",
+			"332",
+			"sub",
+			"gotham",
+			"LI",
+			".main",
+			"link",
+			";",
+			"h1",
+			"md",
+			"box",
+			"scaffo\nscaffo",
+			"scaffo",
+			"xs",
+			"md",
+			"\">.",
+			"8",
+			"responsive_header",
+			"that",
+			"cd title",
+			"cd2",
+			"}",
+			"{",
+			"video3",
+			"video2",
+			"video1",
+			"\"images/",
+			"images/",
+			"href=\"https://soundcloud.com/dirty-fuse\"",
+			"href=\"http://greencookierecords.bandcamp.com/album/surfbetika\"",
+			"http://www.greencookie.gr/",
+			"\">\n",
+			"cd3_bi",
+			"<div class=\"music_player\"></div>",
+			"     <object type=\"application/x-shockwave-flash\" data=\"dewplayer.swf\" width=\"200\" height=\"24\" id=\"dewplayer\" name=\"dewplayer\">\n                        <param name=\"wmode\" value=\"transparent\" />\n                        <param name=\"movie\" value=\"dewplayer.swf\" />\n                        <param name=\"flashvars\" value=\"mp3=mp3s/akrogialies_deilina.mp3&amp;autostart=0&amp;autoreplay=1&amp;showtime=1\" />\n                      </object>",
+			"<object type=\"application/x-shockwave-flash\" data=\"dewplayer.swf\" width=\"200\" height=\"24\" id=\"dewplayer\" name=\"dewplayer\">\n                        <param name=\"wmode\" value=\"transparent\" />\n                        <param name=\"movie\" value=\"dewplayer.swf\" />\n                        <param name=\"flashvars\" value=\"mp3=mp3s/akrogialies_deilina.mp3&amp;autostart=0&amp;autoreplay=1&amp;showtime=1\" />\n                      </object>",
+			"<object type=\"application/x-shockwave-flash\" data=\"dewplayer.swf\" width=\"200\" height=\"20\"",
+			"head>",
+			"head",
+			"<div class=\"play_button\"></div>",
+			"data_cont",
+			"data_conta",
+			"header_conta",
+			"surfbetika",
+			"data_container",
+			"data_container ",
+			"header",
+			"h2",
+			"538",
+			"header_pi",
+			"data_container",
+			".button1",
+			"h1",
+			"header_p",
+			"list_element1",
+			"music_container",
+			"relative",
+			"absolu",
+			"z-index",
+			"z-inde",
+			"png",
+			"</li>",
+			"<li>",
+			"Sunset",
+			"Black",
+			"Lost",
+			"Perfect",
+			"Storm",
+			"Surf",
+			"A",
+			"VU",
+			"Last",
+			"Look",
+			"Sunset beach (Akrogialies dilina)",
+			"wave",
+			"around",
+			"Sunset beach (Akrogialies dilina)",
+			"                  ",
+			"200px",
+			"family",
+			"}\n",
+			"line1",
+			"jpg",
+			";\n",
+			"h2",
+			"z-in",
+			"P4",
+			"/HL1",
+			"/H",
+			"/28",
+			"hanging",
+			"HANGING",
+			"/",
+			"start",
+			"heading1",
+			"START",
+			"1500"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"md",
+			"xs",
+			"cd1",
+			"video4",
+			"video3",
+			"video2",
+			"\"uploads/images/",
+			"images/",
+			"href=\"https://soundcloud.com/dirty-fuse\" target=\"_blank\"",
+			"href=\"https://soundcloud.com/dirty-fuse\"",
+			"href=\"http://greencookierecords.bandcamp.com/album/surfbetika\" target=\"_blank\"",
+			"href=\"http://greencookierecords.bandcamp.com/album/surfbetika\"",
+			"http://greencookierecords.bandcamp.com/album/surfbetika",
+			"<div class=\"music_player\">\n                      <object width=\"160\" height=\"20\" id=\"dewplayer-mini\" data=\"dewplayer-mini.swf?mp3=mp3s/test1.mp3\" type=\"application/x-shockwave-flash\">\n                        <param value=\"transparent\" name=\"wmode\" />\n                        <param value=\"dewplayer-mini.swf?mp3=mp3s/test1.mp3\" name=\"movie\" />\n                      </object>\n                    </div>",
+			"<div class=\"music_player\">\n                      <object width=\"160\" height=\"20\" id=\"dewplayer-mini\" data=\"dewplayer-mini.swf?mp3=mp3/test2.mp3\" type=\"application/x-shockwave-flash\">\n                        <param value=\"transparent\" name=\"wmode\" />\n                        <param value=\"dewplayer-mini.swf?mp3=mp3s/test1.mp3\" name=\"movie\" />\n                      </object>\n                    </div>",
+			"",
+			"<object type=\"application/x-shockwave-flash\" data=\"dewplayer.swf\" width=\"200\" height=\"24\"",
+			"<object type=\"application/x-shockwave-flash\" data=\"dewplayer.swf\" width=\"200\" height=\"20\"",
+			"<div class=\"music_player\">\n                  <object type=\"application/x-shockwave-flash\" data=\"dewplayer.swf\" width=\"200\" height=\"20\" id=\"dewplayer\" name=\"dewplayer\">\n                    <param name=\"wmode\" value=\"transparent\" />\n                    <param name=\"movie\" value=\"dewplayer.swf\" />\n                    <param name=\"flashvars\" value=\"mp3=mp3s/akrogialies_deilina.mp3&amp;autostart=0&amp;autoreplay=1&amp;showtime=1\" />\n                  </object>\n                </div>",
+			"<div class=\"play_button\"></div>",
+			"element1",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"output.find_results":
+	{
+		"height": 153.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"heade",
+				"wp-content/themes/ecocyclists-blog/header.php"
+			],
+			[
+				"footer",
+				"wp-content/themes/ecocyclists-blog/footer.php"
+			],
+			[
+				"header",
+				"wp-content/themes/ecocyclists-blog/header.php"
+			],
+			[
+				"style",
+				"wp-content/themes/ecocyclists-blog/style.css"
+			],
+			[
+				"archi",
+				"wp-content/themes/wpex-adapt/archive.php"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"custom",
+				"custom.css.php"
+			],
+			[
+				"fun",
+				"functions.php"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"options",
+				"admin/options-framework.php"
+			],
+			[
+				"page",
+				"page.php"
+			],
+			[
+				"arch",
+				"archive.php"
+			],
+			[
+				"index",
+				"index.php"
+			],
+			[
+				"depre",
+				"wp-includes/deprecated.php"
+			],
+			[
+				"capabi",
+				"wp-includes/capabilities.php"
+			],
+			[
+				"",
+				"index.php"
+			],
+			[
+				"vide",
+				"videos.html"
+			],
+			[
+				"abo",
+				"about_us.html"
+			],
+			[
+				"mus",
+				"music.html"
+			],
+			[
+				"ph",
+				"photos_flyers.html"
+			],
+			[
+				"vi",
+				"videos.html"
+			],
+			[
+				"sty",
+				"styles.css"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"music",
+				"music.html"
+			],
+			[
+				"musi",
+				"music2.html"
+			],
+			[
+				"us",
+				"about_us.html"
+			],
+			[
+				"vid",
+				"videos.html"
+			],
+			[
+				"pho",
+				"photos_flyers.html"
+			],
+			[
+				"mu",
+				"music.html"
+			],
+			[
+				"abou",
+				"about_us.html"
+			],
+			[
+				"us2",
+				"about_us2.html"
+			],
+			[
+				"dew",
+				"dewplayer_styles.css"
+			],
+			[
+				"styl",
+				"styles.css"
+			],
+			[
+				"hp14",
+				"28092009/HP14.htm"
+			],
+			[
+				"op5",
+				"15-02-2013/OP5.htm"
+			],
+			[
+				"op4",
+				"15-02-2013/OP4.htm"
+			],
+			[
+				"fs33",
+				"15-02-2013/FS33.html"
+			],
+			[
+				"fs28",
+				"15-02-2013/FS28.html"
+			],
+			[
+				"fs31",
+				"15-02-2013/FS31.html"
+			],
+			[
+				"fs32",
+				"15-02-2013/FS32.html"
+			],
+			[
+				"fs27",
+				"15-02-2013/FS27.htm"
+			],
+			[
+				"fs29",
+				"15-02-2013/FS29.html"
+			],
+			[
+				"fs30",
+				"15-02-2013/FS30.html"
+			],
+			[
+				"fsl3",
+				"FSL3.htm"
+			],
+			[
+				"fsl2",
+				"FSL2.htm"
+			],
+			[
+				"fsl1",
+				"FSL1.htm"
+			],
+			[
+				"op3",
+				"OP3.htm"
+			],
+			[
+				"op2",
+				"OP2.htm"
+			],
+			[
+				"op1",
+				"OP1.htm"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
